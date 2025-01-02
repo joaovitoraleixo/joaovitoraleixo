@@ -1,4 +1,4 @@
-## Olá! Eu sou o Joao Vitor Aleixo
+## Olá! Eu sou o Joao Vitor Nascimento
 
 - Iniciante na programaçao
 - Estudando Java Script
